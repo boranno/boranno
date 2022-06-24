@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Boranno Golder</h1>
 <h3 align="center">Competitive Programmer | Tech Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=boranno&label=Profile%20views&color=0e75b6&style=flat" alt="boranno" /> </p>
-<img align="right" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" src="http://reddit.com/r/reactiongifs/comments/2nhksk/mrw_im_failing_calculus_but_i_can_still_get_an_a/">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/boranno-golder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boranno-golder" height="30" width="40" /></a>
