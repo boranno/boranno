@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/boranno-golder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boranno-golder" height="30" width="40" /></a>
 <a href="https://fb.com/boranno.golder.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boranno.golder.7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/boranno golder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boranno golder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCn2ce-oS9v2ULICtbdYxqWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boranno golder" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/b0rann0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="b0rann0" height="30" width="40" /></a>
 </p>
 
