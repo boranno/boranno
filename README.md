@@ -55,7 +55,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=boranno&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=boranno&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3%22%20height=%22150%22%20alt=%22streak%20graph%22"/>
   <br>
   <br>
   <br>
