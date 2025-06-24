@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=boranno&base=9590&abbreviated=true)
+
 <h2 align="left">Hi 👋! My name Boranno Golder I'm a Developer of None</h2>
 
 
