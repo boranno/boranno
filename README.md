@@ -1,21 +1,61 @@
- <h1 align="center">Hi 👋, I'm Boranno Golder</h1>
-<h3 align="center">Competitive Programmer | Tech Enthusiast</h3>
+![](https://komarev.com/ghpvc/?username=boranno&base=9590&abbreviated=true)
+<h2 align="left">Hi 👋! My name Boranno Golder I'm a Developer of None</h2>
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=boranno&label=Profile%20views&color=0e75b6&style=flat" alt="boranno" /> </p>
-<img align="right" src=" https://raw.githubusercontent.com/insolitum/insolitum/f85dab99d95e6765f1afd6f692f88bcafc7b5dd4/contributions.svg">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/boranno-golder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boranno-golder" height="30" width="40" /></a>
-<a href="https://fb.com/boranno.golder.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boranno.golder.7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCn2ce-oS9v2ULICtbdYxqWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boranno golder" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/b0rann0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="b0rann0" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boranno&show_icons=true&locale=en&layout=compact" alt="boranno"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=boranno&show_icons=true&locale=en" alt="boranno"></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=boranno&" alt="boranno" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boranno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boranno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
+<br clear="both">
+
+
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+</div>
+
+<div align="left">
+  <a href="https://www.facebook.com/boranno.golder.7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+  <a href="mailto:borannogolder@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/boranno-golder" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+
+
+<br clear="both">
+
+<img src="https://github.com/boranno/boranno/blob/output/snake.svg" alt="Snake animation" />
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=boranno&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=boranno&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boranno&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
